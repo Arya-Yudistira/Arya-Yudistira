@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi There!
+## <p>Hi There!</p>
 
 <p>Welcome to my page!
 </br>
